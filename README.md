@@ -19,9 +19,7 @@ Data Cleaning:
 • Then we checked for the outliers in numerical columns in and, removed the outliers using the capping method.
 
 Exploratory Data Analysis:
-• We have done Univariate and Bivariate analyses on the both 
-numerical and categorical columns. The bivariate analysis was done 
-concerning the target variable.
+• We have done Univariate and Bivariate analyses on the both numerical and categorical columns. The bivariate analysis was done concerning the target variable.
 • We found that some of the categorical columns are irrelevant for the 
 model, as some were sales generated and some were highly skewed. 
 Hence, we dropped such columns.
